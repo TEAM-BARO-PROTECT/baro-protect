@@ -1,0 +1,9 @@
+title: baro-protect
+description: Baro Protect Documentation
+
+remote_theme: just-the-docs/just-the-docs
+
+search_enabled: true
+
+plugins:
+  - jekyll-remote-theme
