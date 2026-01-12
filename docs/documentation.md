@@ -23,6 +23,6 @@ nav_order: 1
 
 # 문서 배포
 
-_config.yml에 설정되어있다.
+_config.yml의 설정에 따라
 
 main에 push될 경우 알아서 Github Pages로 배포된다.
