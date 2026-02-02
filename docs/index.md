@@ -14,9 +14,14 @@ Baro-Protect의 소프트웨어에 대한 통합 모노레포지토리
 # 문서 구조 
 index.md - 프로젝트 개요
 documentation.md - 문서화 방법
+(추가예정)conventions.md - 컨벤션 (코딩, 깃로그 등등)
 (추가예정)/controller - 반납함 컨트롤러 관련 문서
 (추가예정)/mobile - 모바일 클라이언트 관련 문서
 (추가예정)/server - 서버 관련 문서
+
+# 소통
+1. 이슈트래킹
+2. Pull Request
 
 <br><br>
 ---
